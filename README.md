@@ -1,10 +1,13 @@
 # Hi there, I'm Pradeep Yadav! 👋
+<div align="center">
 
+[![Website](https://img.shields.io/badge/Website-pradeepadav.info-green?logo=google-chrome&logoColor=white)](https://pradeepadav.info)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devopspradeepyadav-blue?logo=linkedin)](https://linkedin.com/in/devopspradeepyadav)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-pradeepyadav.github.io-9cf?logo=internet-explorer)](https://pradeepyadav.github.io)  
 [![GitHub](https://img.shields.io/badge/GitHub-devopspradeepyadav-181717?logo=github)](https://github.com/devopspradeepyadav)  
 [![Gmail](https://img.shields.io/badge/Email-devopspradeepyadav@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:devopspradeepyadav@gmail.com)  
 
+</div>
 ---
 
 🎓 **DevOps Engineer & Full Stack Developer**  
@@ -27,7 +30,7 @@
 - **Cloud & Infrastructure:** AWS (Lambda, EC2, S3, CloudFront, ECS), Terraform, Kubernetes  
 - **Containers & Orchestration:** Docker, Helm, Kubernetes  
 - **CI/CD:** Jenkins, GitHub Actions  
-- **Configuration Management:** Ansible, Chef  
+- **Configuration Management:** Ansible,   
 - **Programming:** JavaScript (Node.js, React), Python, Bash, SQL  
 - **Databases:** MongoDB, MySQL  
 - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack  
