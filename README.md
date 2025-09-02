@@ -1,8 +1,20 @@
-# Hi there, I'm Pradeep Yadav! 👋
+<h1 align="center">Hi there, I'm Pradeep Yadav! 👋</h1>
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-pradeepadav.info-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pradeepadav.info) [![LinkedIn](https://img.shields.io/badge/LinkedIn-devopspradeepyadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devopspradeepyadav) [![Portfolio](https://img.shields.io/badge/Portfolio-pradeepyadav.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://pradeepyadav.github.io) [![GitHub](https://img.shields.io/badge/GitHub-devopspradeepyadav-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devopspradeepyadav) [![Gmail](https://img.shields.io/badge/Email-devopspradeepyadav@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devopspradeepyadav@gmail.com)
+🌐 DevOps Engineer | 🚀 Cloud & Automation Enthusiast | ⚡ CI/CD | ☁️ Cloud | 🛡️ DevSecOps  
+
+</div>
+
+---
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-pradeepadav.info-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pradeepadav.info) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devopspradeepyadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devopspradeepyadav) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-pradeepyadav.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://pradeepyadav.github.io) 
+[![GitHub](https://img.shields.io/badge/GitHub-devopspradeepyadav-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devopspradeepyadav) 
+[![Gmail](https://img.shields.io/badge/Email-devopspradeepyadav@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devopspradeepyadav@gmail.com)
 
 </div>
 
