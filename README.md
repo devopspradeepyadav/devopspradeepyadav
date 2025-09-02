@@ -1,13 +1,11 @@
 # Hi there, I'm Pradeep Yadav! 👋
+
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-pradeepadav.info-green?logo=google-chrome&logoColor=white)](https://pradeepadav.info)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-devopspradeepyadav-blue?logo=linkedin)](https://linkedin.com/in/devopspradeepyadav)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-pradeepyadav.github.io-9cf?logo=internet-explorer)](https://pradeepyadav.github.io)  
-[![GitHub](https://img.shields.io/badge/GitHub-devopspradeepyadav-181717?logo=github)](https://github.com/devopspradeepyadav)  
-[![Gmail](https://img.shields.io/badge/Email-devopspradeepyadav@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:devopspradeepyadav@gmail.com)  
+[![Website](https://img.shields.io/badge/Website-pradeepadav.info-2ea44f?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pradeepadav.info) [![LinkedIn](https://img.shields.io/badge/LinkedIn-devopspradeepyadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devopspradeepyadav) [![Portfolio](https://img.shields.io/badge/Portfolio-pradeepyadav.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://pradeepyadav.github.io) [![GitHub](https://img.shields.io/badge/GitHub-devopspradeepyadav-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devopspradeepyadav) [![Gmail](https://img.shields.io/badge/Email-devopspradeepyadav@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devopspradeepyadav@gmail.com)
 
 </div>
+
 ---
 
 🎓 **DevOps Engineer & Full Stack Developer**  
