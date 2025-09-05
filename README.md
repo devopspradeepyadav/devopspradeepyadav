@@ -151,4 +151,4 @@
 
 ---
 
-> **"Automate, innovate, and build for the cloud—always keep learning."**
+> **"Code. Deploy. Automate. Repeat. "**
